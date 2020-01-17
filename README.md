@@ -1,3 +1,12 @@
+## Automating Project Initailization
+This project automates the general tasks that are performed while starting a new project.
+The tasks includes:
+* Creating a new repository on Github.
+* Initalizing it with README file.
+* Creating a project folder on local system.
+* Opening the Code Editor, in this case it is visual studio code.
+
+
 ### Install 
 ```bash
 git clone "https://github.com/yshgpta/AutomatingProjectInitialization.git"
