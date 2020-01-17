@@ -13,6 +13,6 @@ function create() {
 	git add .
 	git commit -m "Initial Commit"
 	git push origin master
-	code .
+	code .  #Change with your own code editor
 }
   
